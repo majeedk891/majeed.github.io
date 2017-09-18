@@ -1,37 +1,32 @@
 ## Welcome to Dual Card Dailer 
 
-You can use the [editor on GitHub](https://github.com/majeedk891/majeed.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This document describes how **Dual Card Dailer**  (Hello Card + Five Card)  handles your privacy. To summarize: **Dual Card Dailer**  Dialer itself functions entirely client side and does not share any data with external servers. All data is stored and processed on your phone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 
+###  Access to hardware in Android
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Dual Card Dailer**   may request access to the following hardware based on what features you use:
 
-# Header 1
-## Header 2
-### Header 3
+1. CALL_PHONE : Application is using native calling functionality to make call.
 
-- Bulleted
-- List
+2. READ_CONTACTS: Application requests user for accessing phone contacts, that will make user to select the number directly from contact and dial to that number.
 
-1. Numbered
-2. List
+3. INTERNET Application contains Ads from google. if internet is not available will not show Ads and will hide the area for Ads to get more space in screen.
 
-**Bold** and _Italic_ and `Code` text
+4. **Dual Card Dailer**  Application Using Session Data Storege and Sqlite Storege Your Mobile Application Inside.
 
-[Link](url) and ![Image](src)
-```
+### Stoarge of card data
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Dual Card Dailer** stores card details only inside application. It is not available to any other users
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/majeedk891/majeed.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Your acceptance of these terms
+
+By using this Mobile Applications, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Mobile Applications. Your continued use of the Mobile Applications following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact on **majeedk1010@gmail.com** for any support required for apps.
+
+Best regards!
